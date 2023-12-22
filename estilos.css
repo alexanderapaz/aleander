@@ -3,7 +3,7 @@
 	padding: 0;
 }*/
 header { /*Organize de lo general a lo particular o de arriba a abjao como esta en el HTML*/
-	border-bottom: 1px solid black;
+	border-bottom: 1px solid rgb(194, 212, 25);
 }
 .header-div {
 	display: inline-block;
@@ -16,7 +16,7 @@ header { /*Organize de lo general a lo particular o de arriba a abjao como esta 
 
 }
 .header-div a {
-	color: black;
+	color: rgb(170, 16, 16);
 	font-size: 20px;
 	text-decoration: none;
 	margin:0 50px; /* opx ariiba-abajo y 50px derecha-izquierda*/
@@ -35,12 +35,12 @@ article .article-picture {
 	overflow:hidden;
 }
 footer {
-	background-color: grey;
+	background-color: rgb(15, 78, 173);
 	padding: 50px;
 	margin-top: 30px: 
 }
 footer p { /*Se repiere a lo p dentro de footer*/
-	color:white;
+	color:rgb(18, 182, 67);
 	font-size: 25px;
 }
 footer .picture { /*Encapsular imagen un un contenedor*/
